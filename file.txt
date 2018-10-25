@@ -1,2 +1,3 @@
 My first line in project
 Paris is the capital of France
+File.txt in 2 section, 2 state
